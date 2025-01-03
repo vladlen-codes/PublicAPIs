@@ -16,4 +16,6 @@ CORS, or Cross-Origin Resource Sharing, is a mechanism that allows access to res
 API | Description | Auth | HTTPS | CORS 
 |:---|:---|:---|:---|:---|
 | [Dogs](https://dog.ceo/dog-api/) | Original dataset taken from the the Stanford Dogs Dataset. | No | Yes | Yes |
+| [Cats](https://docs.thecatapi.com/) | Pictures of cats from Tumblr | `apiKey` | Yes | No |
+
 
