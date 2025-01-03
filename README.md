@@ -1,1 +1,5 @@
 # PublicAPIs
+
+## Index
+* [Animals](#animals)
+
