@@ -63,6 +63,8 @@ remove complexity from your codebase | `apiKey` | Yes | No |
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [Open Library](https://openlibrary.org/developers/api) | Open Library offers a suite of APIs to help developers get up and running with our data. This includes RESTful APIs, which make Open Library data availabile in JSON, YAML and RDF/XML formats. | No | Yes | No |
+| [PoetryDB](https://poetrydb.org/index.html) | Allows you to access instant data from our extensive poetry collection. | No | Yes | Yes |
+
 
 
 
