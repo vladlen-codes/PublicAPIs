@@ -37,6 +37,8 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [Auth0](https://auth0.com) | Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business. | `apiKey` | Yes | Yes |
+| [GetOTP](https://otp.dev/en/docs/) | GetOTP is a web service that helps you build a complete multichannel One Time Password (OTP) with almost no code. With a simple API call, you can implement your verification flow. | `apiKey` | Yes | No |
+
 
 
 
