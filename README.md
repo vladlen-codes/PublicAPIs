@@ -11,6 +11,8 @@ CORS, or Cross-Origin Resource Sharing, is a mechanism that allows access to res
 
 ## Index
 * [Animals](#animals)
+* [Anime](#anime)
+
 
 ### Animals
 API | Description | Auth | HTTPS | CORS 
@@ -18,6 +20,17 @@ API | Description | Auth | HTTPS | CORS
 | [Dogs](https://dog.ceo/dog-api/) | Original dataset taken from the the Stanford Dogs Dataset. | No | Yes | Yes |
 | [Cats](https://docs.thecatapi.com/) | A collection of adorable and quirky cat photos from Tumblr, showcasing the charm and humor of feline companions. | `apiKey` | Yes | No |
 | [The Dog](https://thedogapi.com/) | A free public service designed for dogs, available for use in your new app, website, or service. | `apiKey` | Yes | No |
+
+**[⬆ Back to Index](#index)**
+<br >
+<br >
+
+### Anime
+API | Description | Auth | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [Waifu.pics](https://waifu.pics/api) | It offers easy access to random or themed images, including waifus and other anime characters. | No | Yes | No |
+
+
 
 
 
