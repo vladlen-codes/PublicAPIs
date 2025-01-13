@@ -46,7 +46,6 @@ API | Description | Auth | HTTPS | CORS |
 | [Stytch](https://stytch.com/) | Authentication and fraud prevention, designed to
 remove complexity from your codebase | `apiKey` | Yes | No |
 
-
 **[Back to Index](#index)**
 <br >
 
@@ -57,9 +56,13 @@ remove complexity from your codebase | `apiKey` | Yes | No |
 | [Watchdata](https://docs.watchdata.io) | Provides you with a combined dataset to get information from the blockchain just in one click. | `apiKey` | Yes | Unknown |
 | [Helium](https://docs.helium.com/) | Helium is a global, decentralized network of Hotspots that provide public, long-range wireless coverage. | No | Yes | Unknown |
 
+**[Back to Index](#index)**
+<br >
 
-
-
+### Books
+API | Description | Auth | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [Open Library](https://openlibrary.org/developers/api) | Open Library offers a suite of APIs to help developers get up and running with our data. This includes RESTful APIs, which make Open Library data availabile in JSON, YAML and RDF/XML formats. | No | Yes | No |
 
 
 
