@@ -69,6 +69,8 @@ API | Description | Auth | HTTPS | CORS |
 **[Back to Index](#index)**
 <br >
 
-
-
+### Business
+API | Description | Auth | HTTPS | CORS |
+|---|:---|:---|:---|:---|
+| [Google Analytics](https://developers.google.com/analytics/) | The Google Analytics API provides programmatic access to Google Analytics data. It enables you to retrieve metrics and dimensions, manage accounts, and more. | `OAuth` | Yes | Unknown |
 
