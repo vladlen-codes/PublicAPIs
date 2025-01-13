@@ -12,6 +12,8 @@ CORS, or Cross-Origin Resource Sharing, is a mechanism that allows access to res
 ## Index
 * [Animals](#animals)
 * [Anime](#anime)
+* [Authentication & Authorization](#authentication--authorization)
+
 
 
 ### Animals
@@ -30,6 +32,11 @@ API | Description | Auth | HTTPS | CORS |
 | [Waifu.pics](https://waifu.pics/api) | It offers easy access to random or themed images, including waifus and other anime characters. | No | Yes | No |
 | [Jikan](https://jikan.moe) | Jikan (時間) is an unofficial & open-source API for the “most active online anime + manga community and database” — MyAnimeList. | No | Yes | Yes |
 | [Kitsu](https://kitsu.docs.apiary.io/) | Kitsu is a modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans. | `OAuth` | Yes | Yes |
+
+### Authentication & Authorization
+API | Description | Auth | HTTPS | CORS |
+|:---|:---|:---|:---|:---|
+| [Auth0](https://auth0.com) | Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business. | `apiKey` | Yes | Yes |
 
 
 
