@@ -83,4 +83,8 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [Google Calendar](https://developers.google.com/google-apps/calendar/) | The Google Calendar API allows developers to interact programmatically with Google Calendar, enabling features like creating, updating, deleting events, and managing calendars. | `OAuth` | Yes | Unknown |
+| [Holidays](https://holidayapi.com/) | Provides access to holiday information for countries and regions around the world | `apiKey` | Yes | Unknown |
+| [Checkiday - National Holiday API](https://apilayer.com/marketplace/checkiday-api) | Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World’s leading companies | `apiKey` | Yes | Unknown |
+
+
 
