@@ -64,7 +64,7 @@ API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [Open Library](https://openlibrary.org/developers/api) | Open Library offers a suite of APIs to help developers get up and running with our data. This includes RESTful APIs, which make Open Library data availabile in JSON, YAML and RDF/XML formats. | No | Yes | No |
 | [PoetryDB](https://poetrydb.org/index.html) | Allows you to access instant data from our extensive poetry collection. | No | Yes | Yes |
-| [Google Books](https://developers.google.com/books/) | Google Books is our effort to make book content more discoverable on the Web. Using the Google Books API, your application can perform full-text searches and retrieve book information, viewability and eBook availability. | `OAuth` | Yes | Unknown |
+| [Google Books](https://developers.google.com/books/) | Google Books makes book content discoverable online. Its API lets apps search full text, retrieve book info, and check viewability/eBook availability. | `OAuth` | Yes | Unknown |
 
 
 
