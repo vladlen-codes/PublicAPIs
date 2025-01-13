@@ -17,5 +17,7 @@ API | Description | Auth | HTTPS | CORS
 |:---|:---|:---|:---|:---|
 | [Dogs](https://dog.ceo/dog-api/) | Original dataset taken from the the Stanford Dogs Dataset. | No | Yes | Yes |
 | [Cats](https://docs.thecatapi.com/) | A collection of adorable and quirky cat photos from Tumblr, showcasing the charm and humor of feline companions. | `apiKey` | Yes | No |
+| [The Dog](https://thedogapi.com/) | A free public service designed for dogs, available for use in your new app, website, or service. | `apiKey` | Yes | No |
+
 
 
