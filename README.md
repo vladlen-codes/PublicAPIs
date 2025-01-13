@@ -21,7 +21,7 @@ API | Description | Auth | HTTPS | CORS
 | [Cats](https://docs.thecatapi.com/) | A collection of adorable and quirky cat photos from Tumblr, showcasing the charm and humor of feline companions. | `apiKey` | Yes | No |
 | [The Dog](https://thedogapi.com/) | A free public service designed for dogs, available for use in your new app, website, or service. | `apiKey` | Yes | No |
 
-**[⬆ Back to Index](#index)**
+**[Back to Index](#index)**
 <br >
 <br >
 
