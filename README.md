@@ -23,12 +23,13 @@ API | Description | Auth | HTTPS | CORS
 
 **[Back to Index](#index)**
 <br >
-<br >
 
 ### Anime
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [Waifu.pics](https://waifu.pics/api) | It offers easy access to random or themed images, including waifus and other anime characters. | No | Yes | No |
+| [Jikan](https://jikan.moe) | Jikan (時間) is an unofficial & open-source API for the “most active online anime + manga community and database” — MyAnimeList. | No | Yes | Yes |
+
 
 
 
