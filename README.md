@@ -33,11 +33,18 @@ API | Description | Auth | HTTPS | CORS |
 | [Jikan](https://jikan.moe) | Jikan (時間) is an unofficial & open-source API for the “most active online anime + manga community and database” — MyAnimeList. | No | Yes | Yes |
 | [Kitsu](https://kitsu.docs.apiary.io/) | Kitsu is a modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans. | `OAuth` | Yes | Yes |
 
+**[Back to Index](#index)**
+<br >
+
 ### Authentication & Authorization
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
 | [Auth0](https://auth0.com) | Rapidly integrate authentication and authorization for web, mobile, and legacy applications so you can focus on your core business. | `apiKey` | Yes | Yes |
 | [GetOTP](https://otp.dev/en/docs/) | GetOTP is a web service that helps you build a complete multichannel One Time Password (OTP) with almost no code. With a simple API call, you can implement your verification flow. | `apiKey` | Yes | No |
+
+**[Back to Index](#index)**
+<br >
+
 
 
 
