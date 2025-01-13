@@ -73,4 +73,6 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
 | [Google Analytics](https://developers.google.com/analytics/) | The Google Analytics API provides programmatic access to Google Analytics data. It enables you to retrieve metrics and dimensions, manage accounts, and more. | `OAuth` | Yes | Unknown |
+| [Freelancer](https://developers.freelancer.com) | Freelancer.com API lets developers to access a cloud workforce of skilled freelancers from your website, app or software. | `OAuth` | Yes | Unknown |
+| [Gmail](https://developers.google.com/gmail/api/) | Gmail API is a RESTful API that can be used to access Gmail mailboxes and send mail. For most web applications the Gmail API is the best choice for authorized access to a user's Gmail data. | `OAuth` | Yes | Unknown |
 
