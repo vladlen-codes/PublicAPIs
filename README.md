@@ -53,7 +53,7 @@ remove complexity from your codebase | `apiKey` | Yes | No |
 ### Blockchain
 | API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
-| [Nownodes](https://nownodes.io/) | Full Nodes and Block Explorers. Instant access to 65+ RPC nodes for all your Web3 development needs. | `apiKey` | Yes | Unknown |
+| [NOWNodes](https://nownodes.io/) | Full Nodes and Block Explorers. Instant access to 65+ RPC nodes for all your Web3 development needs. | `apiKey` | Yes | Unknown |
 
 
 
