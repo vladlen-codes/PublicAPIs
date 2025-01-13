@@ -13,6 +13,8 @@ CORS, or Cross-Origin Resource Sharing, is a mechanism that allows access to res
 * [Animals](#animals)
 * [Anime](#anime)
 * [Authentication & Authorization](#authentication--authorization)
+* [Blockchain](#blockchain)
+
 
 
 
