@@ -66,7 +66,8 @@ API | Description | Auth | HTTPS | CORS |
 | [PoetryDB](https://poetrydb.org/index.html) | Allows you to access instant data from our extensive poetry collection. | No | Yes | Yes |
 | [Google Books](https://developers.google.com/books/) | Google Books makes book content discoverable online. Its API lets apps search full text, retrieve book info, and check viewability/eBook availability. | `OAuth` | Yes | Unknown |
 
-
+**[Back to Index](#index)**
+<br >
 
 
 
