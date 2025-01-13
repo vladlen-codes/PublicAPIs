@@ -55,6 +55,8 @@ remove complexity from your codebase | `apiKey` | Yes | No |
 |---|:---|:---|:---|:---|
 | [NOWNodes](https://nownodes.io/) | Full Nodes and Block Explorers. Instant access to 65+ RPC nodes for all your Web3 development needs. | `apiKey` | Yes | Unknown |
 | [Watchdata](https://docs.watchdata.io) | Provides you with a combined dataset to get information from the blockchain just in one click. | `apiKey` | Yes | Unknown |
+| [Helium](https://docs.helium.com/) | Helium is a global, decentralized network of Hotspots that provide public, long-range wireless coverage. | No | Yes | Unknown |
+
 
 
 
