@@ -95,5 +95,9 @@ API | Description | Auth | HTTPS | CORS |
 API | Description | Auth | HTTPS | CORS |
 |---|:---|:---|:---|:---|
 | [Google Drive](https://developers.google.com/drive/) | Google Drive API lets you create apps that leverage Google Drive cloud storage. Integrate with Drive, and create robust functionality in your application using the Drive API. | `OAuth` | Yes | Unknown | |
+| [OneDrive](https://developer.microsoft.com/onedrive) | OneDrive API & Microsoft Graph integration for user authentication, app authorization, and resource access. | `OAuth` | Yes | Unknown | |
+| [Pantry](https://getpantry.cloud/) | Pantry is a free service that provides perishable data storage for small projects. | No | Yes | Yes | |
+
+
 
 
