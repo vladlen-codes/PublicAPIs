@@ -17,6 +17,8 @@ CORS, or Cross-Origin Resource Sharing, is a mechanism that allows access to res
 * [Books](#books)
 * [Business](#business)
 * [Calendar](#calendar)
+* [Cloud Storage & File Sharing](#cloud-storage--file-sharing)
+
 
 ### Animals
 API | Description | Auth | HTTPS | CORS 
@@ -86,5 +88,12 @@ API | Description | Auth | HTTPS | CORS |
 | [Holidays](https://holidayapi.com/) | Provides access to holiday information for countries and regions around the world | `apiKey` | Yes | Unknown |
 | [Checkiday - National Holiday API](https://apilayer.com/marketplace/checkiday-api) | Industry-leading Holiday API. Over 5,000 holidays and thousands of descriptions. Trusted by the World’s leading companies | `apiKey` | Yes | Unknown |
 
+**[Back to Index](#index)**
+<br >
+
+### Cloud Storage & File Sharing
+API | Description | Auth | HTTPS | CORS |
+|---|:---|:---|:---|:---|
+| [Google Drive](https://developers.google.com/drive/) | Google Drive API lets you create apps that leverage Google Drive cloud storage. Integrate with Drive, and create robust functionality in your application using the Drive API. | `OAuth` | Yes | Unknown | |
 
 
