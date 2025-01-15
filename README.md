@@ -18,7 +18,7 @@ CORS, or Cross-Origin Resource Sharing, is a mechanism that allows access to res
 * [Business](#business)
 * [Calendar](#calendar)
 * [Cloud Storage & File Sharing](#cloud-storage--file-sharing)
-
+* [Cryptocurrency](#cryptocurrency)
 
 ### Animals
 API | Description | Auth | HTTPS | CORS 
